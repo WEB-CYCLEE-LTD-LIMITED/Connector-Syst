@@ -1,2 +1,2 @@
 # Connector-Syst
-Integration Connector - Syst environment phone Android Danske Bank A/S
+Integration Connector - System phone Android Danske Bank A/S
